@@ -1,0 +1,15 @@
+C:\OOP\2FADesktopAuthenticator\2FADesktopAuthenticator\bin\Debug\2FADesktopAuthenticator.exe.config
+C:\OOP\2FADesktopAuthenticator\2FADesktopAuthenticator\bin\Debug\2FADesktopAuthenticator.exe
+C:\OOP\2FADesktopAuthenticator\2FADesktopAuthenticator\bin\Debug\2FADesktopAuthenticator.pdb
+C:\OOP\2FADesktopAuthenticator\2FADesktopAuthenticator\bin\Debug\TwoStepsAuthenticator.dll
+C:\OOP\2FADesktopAuthenticator\2FADesktopAuthenticator\bin\Debug\TwoStepsAuthenticator.pdb
+C:\OOP\2FADesktopAuthenticator\2FADesktopAuthenticator\obj\Debug\2FADesktopAuthenticator.csprojAssemblyReference.cache
+C:\OOP\2FADesktopAuthenticator\2FADesktopAuthenticator\obj\Debug\_2FADesktopAuthenticator.Form1.resources
+C:\OOP\2FADesktopAuthenticator\2FADesktopAuthenticator\obj\Debug\_2FADesktopAuthenticator.Properties.Resources.resources
+C:\OOP\2FADesktopAuthenticator\2FADesktopAuthenticator\obj\Debug\2FADesktopAuthenticator.csproj.GenerateResource.cache
+C:\OOP\2FADesktopAuthenticator\2FADesktopAuthenticator\obj\Debug\2FADesktopAuthenticator.csproj.CoreCompileInputs.cache
+C:\OOP\2FADesktopAuthenticator\2FADesktopAuthenticator\obj\Debug\2FADesktopAuthenticator.csproj.CopyComplete
+C:\OOP\2FADesktopAuthenticator\2FADesktopAuthenticator\obj\Debug\2FADesktopAuthenticator.exe
+C:\OOP\2FADesktopAuthenticator\2FADesktopAuthenticator\obj\Debug\2FADesktopAuthenticator.pdb
+C:\OOP\2FADesktopAuthenticator\2FADesktopAuthenticator\obj\Debug\_2FADesktopAuthenticator.AddAuthenticator.resources
+C:\OOP\2FADesktopAuthenticator\2FADesktopAuthenticator\obj\Debug\_2FADesktopAuthenticator.Instruction.resources
